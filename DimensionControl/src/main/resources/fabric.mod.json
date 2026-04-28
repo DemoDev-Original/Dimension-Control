@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "dimensioncontrol",
+  "version": "${version}",
+  "name": "Dimension Control",
+  "description": "Control dimension access, item/block obtainability, and entity spawning with an intuitive GUI configuration system.",
+  "authors": [{ "name": "Server Admin" }],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.dimensioncontrol.DimensionControl"]
+  },
+  "mixins": ["dimensioncontrol.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

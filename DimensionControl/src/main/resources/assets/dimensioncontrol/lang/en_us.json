@@ -1,0 +1,17 @@
+{
+  "dimensioncontrol.command.reload": "Configuration reloaded",
+  "dimensioncontrol.command.dimension_enabled": "Dimension enabled: %s",
+  "dimensioncontrol.command.dimension_disabled": "Dimension disabled: %s",
+  "dimensioncontrol.command.permission_set": "Permission set for %s: %s",
+  "dimensioncontrol.command.permission_get": "Permission level for %s: %s",
+  "dimensioncontrol.command.permission_removed": "Permission removed for %s",
+  "dimensioncontrol.message.dimension_disabled": "This dimension is currently disabled!",
+  "dimensioncontrol.message.no_permission": "You don't have permission to enter this dimension!",
+  "dimensioncontrol.message.item_blocked": "This item is blocked in this dimension!",
+  "dimensioncontrol.message.item_obtain_blocked": "You cannot obtain this item in this dimension!",
+  "dimensioncontrol.message.block_blocked": "You cannot break this block in this dimension!",
+  "dimensioncontrol.message.entity_blocked": "This entity cannot spawn in this dimension!",
+  "dimensioncontrol.gui.title": "Dimension Control Configuration",
+  "dimensioncontrol.gui.current_dimension": "Current Dimension: %s",
+  "dimensioncontrol.gui.save": "Save Configuration"
+}
